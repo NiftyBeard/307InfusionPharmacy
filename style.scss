@@ -168,10 +168,9 @@ img {
   }
 }
 .site-avatar {
+  margin: .5em;
   vertical-align: middle;
-  width: 220px;
-  height: 220px;
-  margin: auto 1em;
+  width: 15em;
 }
 
 @media screen and (max-width: 640px) {
@@ -183,6 +182,7 @@ img {
   }
 }
 .site-avatar img {
+  margin: .5em;
   width: 15em;
 }
 
@@ -348,7 +348,7 @@ nav a {
 
 @media screen and (max-width: 640px) {
   .footer {
-    height: 70px;
+    height: 2.8em;
     padding-bottom: 2px;
   }
 }
