@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+### About Us:
 
 307 Infusion Pharmacy is a Wyoming owned and operated infusion pharmacy offering a variety of
 infusion therapies that can be safely administered in the comfort of your own home. We also have a
@@ -21,28 +22,3 @@ Our suite is clean, comfortable, and quiet and our staff is friendly and helpful
 
 Our team of professionals will make set-up, delivery, and continued care as easy and seamless
 as possible.
-
-### Our services:
-
-
-IV antibiotics and antifungals
-Total parenteral nutrition (TPN)
-Immune globulin (IV and sub q)
-Hydration
-Inotropes
-Pain management
-Enteral therapy
-Specialty medications (including Remicade, Entyvio, Tysabri)
-We also provide necessary pumps and all supplies needed for home IV and enteral therapy.
-
-### Contact Us
-
-307 Infusion Pharmacy is open 8 am to 5 pm Monday thru Friday. Pharmacists and nurses are on-call
-24/7/365 for urgent infusion-related questions or problems.
-Phone: 307-333-1054
-Fax: 307-333-5243
-Email: staff@307infusionpharmacy.com
-1030 N. Poplar St., Suite A
-Casper, WY 82601
-Anticipated opening April 19, 2021.
-Like us on Facebook!
