@@ -4,8 +4,6 @@ title: Services
 permalink: /services/
 ---
 
-### Our services:
-
 
 IV antibiotics and antifungals
 Total parenteral nutrition (TPN)

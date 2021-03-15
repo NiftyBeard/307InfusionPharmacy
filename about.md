@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
-### About Us:
 
 307 Infusion Pharmacy is a Wyoming owned and operated infusion pharmacy offering a variety of
 infusion therapies that can be safely administered in the comfort of your own home. We also have a
