@@ -75,7 +75,7 @@ p {
 }
 
 a {
-  color: #FFFFFF;
+  color: #002868;
   text-decoration: none;
   cursor: pointer;
 }
@@ -183,8 +183,7 @@ img {
   }
 }
 .site-avatar img {
-  height: 220px;
-  width: 220px;
+  width: 15em;
 }
 
 .site-info {
@@ -302,7 +301,7 @@ nav a {
 }
 
 .post .read-more:hover {
-  color: #FFFFFF;
+  color: #002868;
   text-transform: uppercase;
   font-size: 17px;
 }
@@ -328,15 +327,12 @@ nav a {
 
 .wrapper-footer {
   min-height: 100%;
-  border-top: 1px solid #e5d610;
-  border-bottom: 1px solid #e5d610;
-  background-color: #333;
   margin: auto auto 60px;
   padding-top: 5px;
 }
 
 .footer {
-  background-color: #403020;
+  background-color: #BF0A30;
   position: absolute;
   text-align: center;
   vertical-align: middle;
@@ -347,7 +343,7 @@ nav a {
   height: 80px;
   /* Height of the footer */
   position: fixed;
-  box-shadow: 2px 6px 2px 6px rgba(10, 10, 10, 0.12), inset 0 3px 0 #ffd718;
+  box-shadow: 2px 6px 2px 6px rgba(10, 10, 10, 0.12), inset 0 3px 0 #002868;
 }
 
 @media screen and (max-width: 640px) {
