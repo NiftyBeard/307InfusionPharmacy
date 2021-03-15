@@ -34,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Rubik, LexendDeca, "Helvetica Neue", Helvetica, Arial, Pacifico, sans-serif;
+  font-family: Rubik, LexendDeca, "Helvetica Neue", Helvetica, Arial, Poppins, sans-serif;
   color: #222;
   font-weight: bold;
   line-height: 1.7;
@@ -209,7 +209,7 @@ img {
 
 .site-description {
   margin: auto 11.2em 1em;
-  font-family: Pacifico;
+  font-family: Poppins;
   color: #666;
   font-size: 1em;
   vertical-align: middle;
@@ -226,7 +226,7 @@ nav {
   background-color: #002868;
   -webkit-border-radius: 15px 15px 0px 0px;
   margin-top: 3.5em;
-  font-family: Pacifico;
+  font-family: Poppins;
   font-size: 1.3em;
   vertical-align: middle;
   text-align: center;
@@ -340,7 +340,7 @@ nav a {
   left: 0;
   bottom: 0;
   width: 100%;
-  height: 80px;
+  height: 2.8em;
   /* Height of the footer */
   position: fixed;
   box-shadow: 2px 6px 2px 6px rgba(10, 10, 10, 0.12), inset 0 3px 0 #002868;
