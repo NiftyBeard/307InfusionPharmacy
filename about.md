@@ -10,7 +10,7 @@ quiet and comfortable infusion suite in Casper for specialty infusions with conv
 accommodating scheduling and no wait time.
 
 Home IV therapies include nutrition support (TPN), antibiotics, antifungals, cardiovascular
-agents, hydration, and IG therapy. Our experience local nursing staff will provide the necessary training
+agents, hydration, and IG therapy. Our experienced local nursing staff will provide the necessary training
 and will continue to help and support patients throughout the course of therapy. Outside of Casper our
 clinical staff will coordinate with home health nursing all over Wyoming to ensure safe and effective
 therapy for every patient.
