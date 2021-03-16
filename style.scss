@@ -366,7 +366,7 @@ nav a {
 }
 .footer_contents, .footer-copyright {
   /* height: 60px; */
-  margin: auto;
+  margin: -.8em auto;
   padding-top: 10px;
   text-align: center;
   position: relative;
@@ -376,7 +376,7 @@ nav a {
   .footer-contents {
     float: none;
     padding-bottom: 0;
-    margin: 0;
+    margin: -1em;
   }
 }
 .footer-copyright {
@@ -391,7 +391,6 @@ nav a {
   .footer-copyright {
     float: none;
     padding: 0;
-    margin: 0;
   }
 }
 
