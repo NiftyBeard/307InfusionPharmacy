@@ -31,7 +31,6 @@ Casper, WY 82601
   <div class=messagebox>
     <label for="textarea">Message</label>
     <textarea form="contact"></textarea>
-    
   </div>
  
   <button type="submit">Send</button>
