@@ -19,7 +19,7 @@ Email: staff@307infusionpharmacy.com
 1030 N. Poplar St., Suite A
 Casper, WY 82601
 
-<form action="https://getform.io/f/422458b7-2be9-4f6f-a073-16f0fb0dfa85" method="POST">
+<form action="https://getform.io/f/422458b7-2be9-4f6f-a073-16f0fb0dfa85" method="POST" id="contact">
   <div class=namebox>
     <label for="exampleInputName">Name</label>
     <input type="text" name="name" class="form-control" id="InputName" placeholder="Enter your name" required="required">
@@ -30,7 +30,7 @@ Casper, WY 82601
   </div>
   <div class=messagebox>
     <label for="textarea">Message</label>
-    <textarea>Write your message here</textarea>
+    <textarea form="contact">Write your message here</textarea>
     
   </div>
  
