@@ -33,7 +33,7 @@ Casper, WY 82601
     <textarea></textarea>
   </div>
   <div class="submit">
-    <button type="submit">Send</button>
+    <button type="submit" id="submitbutton">Send</button>
   </div>
 </form>
 
