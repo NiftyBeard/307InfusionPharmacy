@@ -21,15 +21,15 @@ Casper, WY 82601
 
 <form action="https://getform.io/f/422458b7-2be9-4f6f-a073-16f0fb0dfa85" method="POST" id="contact">
   <div class=namebox>
-    <label for="exampleInputName">Name</label>
+    <label for="exampleInputName" id="namelabel">Name</label>
     <input type="text" name="name" class="form-control" id="InputName" placeholder="Enter your name" required="required">
   </div> 
   <div class=emailbox>
-    <label for="exampleInputEmail1" required="required">Email address</label>  
+    <label for="exampleInputEmail1" id="emaillabel" required="required">Email address</label>  
     <input type="email" name="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
   </div>
   <div class=messagebox>
-    <label for="textarea">Message</label>
+    <label for="textarea" id="messagelabel">Message</label>
     <textarea></textarea>
   </div>
   <div class="submit">
