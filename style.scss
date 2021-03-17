@@ -162,6 +162,16 @@ img {
   text-align: center;
 }
 
+header.masthead.clearfix { 
+   padding-right: 5px;
+   padding-left: 5px;
+   border-right: 40px #bf0a30;
+   border-left: 40px #bf0a30;
+   border-style: solid;
+   background: #bf0a30;
+
+}
+
 @media screen and (max-width: 640px) {
   .masthead {
     text-align: center;
@@ -233,14 +243,14 @@ img {
   }
 }
 nav {
-  background-color: #002868;
-  -webkit-border-radius: 15px 15px 0px 0px;
-  margin-top: 3.5em;
-  font-family: Poppins;
-  font-size: 1.3em;
-  vertical-align: middle;
-  text-align: center;
-  margin-bottom: -1px;
+  /*background-color: #002868;*/
+  /*-webkit-border-radius: 15px 15px 0px 0px;*/
+    margin-top: 1em;
+    font-family: Poppins;
+    font-size: 1.3em;
+    vertical-align: middle;
+    text-align: center;
+    margin-bottom: -.8em;
 }
 
 @media screen and (max-width: 640px) {
