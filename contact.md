@@ -29,7 +29,7 @@ Casper, WY 82601
     <input type="email" name="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
   </div>
   <div class=messagebox>
-    <label for="messagebox">Message</label>
+    <label for="textarea">Message</label>
     <textarea>Write your message here</textarea>
     
   </div>
