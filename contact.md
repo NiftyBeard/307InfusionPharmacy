@@ -20,12 +20,21 @@ Email: staff@307infusionpharmacy.com
 Casper, WY 82601
 
 <form action="https://getform.io/f/422458b7-2be9-4f6f-a073-16f0fb0dfa85" method="POST">
-
-  <input type="text" name="name">
-  <input type="email" name="email">
-  <input type="text" name="message">
+  <div class=namebox>
+    <label for="exampleInputName">Name</label>
+    <input type="text" name="name" class="form-control" id="exampleInputName" placeholder="Enter your name" required="required">
+  </div> 
+  <div class=emailbox>
+    <label for="exampleInputEmail1" required="required">Email address</label>  
+    <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+  </div>
+  <div class=messagebox>
+    <label for="messagebox">Message</label>
+    <input type="text" name="message">
+    
+  </div>
+ 
   <button type="submit">Send</button>
-
 </form>
 
 Anticipated opening April 19, 2021.
