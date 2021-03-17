@@ -395,8 +395,7 @@ nav a {
   }
 }
 
-textarea {
-  width: 50%;
+textarea#InputMessage.form-control {
   height: 120px;
   padding: 10px;
   box-sizing: border-box;
