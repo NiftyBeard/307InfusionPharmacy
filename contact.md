@@ -30,7 +30,7 @@ Casper, WY 82601
   </div>
   <div class=messagebox>
     <label for="messagebox">Message</label>
-    <input type="text" name="message" id="Inputmessagebox">
+    <textarea>Write your message here</textarea>
     
   </div>
  
