@@ -32,8 +32,9 @@ Casper, WY 82601
     <label for="textarea">Message</label>
     <textarea></textarea>
   </div>
- 
-  <button type="submit">Send</button>
+  <div class="submit">
+    <button type="submit">Send</button>
+  </div>
 </form>
 
 Anticipated opening April 19, 2021.
