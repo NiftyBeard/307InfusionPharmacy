@@ -394,10 +394,10 @@ nav a {
   }
 }
 
-.Inputmessagebox {
+.textarea {
   width: 50%;
   height: 120px;
-  padding: 12px 20px;
+  padding: 10px;
   box-sizing: border-box;
   border: 2px solid #ccc;
   border-radius: 4px;
@@ -411,6 +411,13 @@ nav a {
 }
 .namebox {
   padding: 10px
+  
+}
+
+.form#contact {
+  border: double;
+  border-color: #bf0a30;
+  padding: 20px;
   
 }
 
