@@ -421,7 +421,7 @@ form#contact {
   
 }
 
-InputEmail {
+input#InputName.form-control {
   box-sizing: border-box;
   border: 2px solid #ccc;
   border-radius: 4px;
@@ -429,7 +429,7 @@ InputEmail {
   font-size: 16px;
 }
 
-InputName {
+input#InputEmail1.form-control {
   box-sizing: border-box;
   border: 2px solid #ccc;
   border-radius: 4px;
@@ -437,22 +437,24 @@ InputName {
   font-size: 16px;
 }
 
-.submit {
-    border-radius: 10px;
-    background: #002868;
-    color: white;
+label#namelabel {
+  display:block
 }
 
-emaillabel {
-  display: block;
+label#emaillabel {
+  display:block
+}
+label#messagelabel {
+  display:block
+}
+.messagebox {
+  padding: 10px
 }
 
-namelabel {
-  display: block;
-}
-
-messagelabel {
-  display: block;
+button#submitbutton {
+  border-radius: 20px;
+  background: #002868;
+  color: white;
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
