@@ -152,7 +152,7 @@ img {
 .wrapper-masthead {
   margin-bottom: 50px;
   background-color: #fff;
-  border-bottom: 4px solid #FFFFFF;
+  border-bottom: 4px solid #002868;
 }
 
 .masthead {
@@ -240,6 +240,7 @@ nav {
   font-size: 1.3em;
   vertical-align: middle;
   text-align: center;
+  margin-bottom: -1px;
 }
 
 @media screen and (max-width: 640px) {
@@ -406,11 +407,11 @@ textarea {
   resize: none;
 }
 .emailbox {
-  padding: 10px
+  padding: 10px;
   
 }
 .namebox {
-  padding: 10px
+  padding: 10px;
   
 }
 
@@ -438,23 +439,27 @@ input#InputEmail1.form-control {
 }
 
 label#namelabel {
-  display:block
+  display:block;
+  font-family: Rubik;
 }
 
 label#emaillabel {
-  display:block
+  display:block;
+  font-family: Rubik;
 }
 label#messagelabel {
-  display:block
+  display:block;
+  font-family: Rubik;
 }
 .messagebox {
-  padding: 10px
+  padding: 10px;
 }
 
 button#submitbutton {
   border-radius: 20px;
   background: #002868;
   color: white;
+  font-size: medium;
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
