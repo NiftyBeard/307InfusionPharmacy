@@ -278,6 +278,7 @@ nav a.selected, nav a:hover {
   -webkit-border-radius: 15px 15px 0px 0px;
   border-radius: 15px 15px 15px 15px;
   background-color: #FFFFFF;
+  color: #002868;
 }
 
 nav a:active {
@@ -295,6 +296,7 @@ nav a {
   color: #FFFFFF;
   font-weight: 400;
   letter-spacing: .02em;
+  border-radius: 20px;
 }
 
 @media screen and (max-width: 640px) {
