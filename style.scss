@@ -150,13 +150,12 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .wrapper-masthead {
-  margin-bottom: 50px;
   background-color: #bf0a30;
   border-bottom: 4px solid #002868;
 }
 
 .masthead {
-  /*padding: 5px 0;*/
+  padding: 15px;
   background-color: #bf0a30;
   text-align: center;
 }
@@ -201,6 +200,7 @@ header.masthead.clearfix {
 }
 .site-avatar img {
   margin: .5em;
+  vertical-align: middle;
   width: 15em;
 }
 
