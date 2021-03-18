@@ -150,33 +150,33 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .wrapper-masthead {
-  background-color: #bf0a30;
-  border-bottom: 4px solid #002868;
+  /* background-color: #bf0a30; */
+  /* border-bottom: 4px solid #bf0a30; */
+  /* width: 50%; */
+  vertical-align: middle;
 }
 
 .masthead {
-  padding: 15px;
-  background-color: #bf0a30;
+  padding: 1em;
+  /* background-color: #bf0a30; */
   text-align: center;
 }
 
 @media screen and (max-width: 640px) {
   .masthead {
-  /*padding: 5px 0;*/
-  background-color: #bf0a30;
-  text-align: center;
+    /*padding: 5px 0;*/
+    /* background-color: #bf0a30; */
+    text-align: center;
+  }
 }
-
-}
-
-header.masthead.clearfix { 
-   padding-right: 5px;
-   padding-left: 5px;
-   border-right: 40px #bf0a30;
-   border-left: 40px #bf0a30;
-   border-style: solid;
-   background: #bf0a30;
-
+header.masthead.clearfix {
+  padding-right: 5px;
+  padding-left: 5px;
+  /* border-right: 40px #bf0a30; */
+  /* border-left: 40px #bf0a30; */
+  border-bottom: 1px #bf0a30;
+  border-style: solid;
+  /* background: #bf0a30; */
 }
 
 @media screen and (max-width: 640px) {
@@ -233,6 +233,7 @@ header.masthead.clearfix {
   vertical-align: middle;
   text-align: center;
 }
+
 @media screen and (max-width: 640px) {
   .site-name {
     margin: auto;
@@ -251,23 +252,23 @@ header.masthead.clearfix {
   }
 }
 nav {
-  /*background-color: #002868;*/
-  /*-webkit-border-radius: 15px 15px 0px 0px;*/
-    margin-top: 1em;
-    font-family: Poppins;
-    font-size: 1.3em;
-    vertical-align: middle;
-    text-align: center;
-    margin-bottom: -1.5em;
+  /* background-color: #002868; */
+  /* -webkit-border-radius: 15px 15px 0px 0px; */
+  margin-top: 1em;
+  font-family: Poppins;
+  font-size: 1.3em;
+  vertical-align: middle;
+  text-align: center;
+  margin-bottom: -1.5em;
 }
 
 @media screen and (max-width: 640px) {
   nav {
     float: right;
-    display: inline;
-    margin-top: 1em;
+    /* display: block; */
+    /* margin-top: 1em; */
     font-size: 1.47em;
-    vertical-align: middle;
+    /* vertical-align: middle; */
   }
 }
 nav a.selected, nav a:hover {
@@ -275,10 +276,10 @@ nav a.selected, nav a:hover {
   -moz-border-radius-topright: 15px;
   -moz-border-radius-bottomright: 15px;
   -moz-border-radius-bottomleft: 15px;
-  -webkit-border-radius: 15px 15px 0px 0px;
-  border-radius: 15px 15px 15px 15px;
-  background-color: #FFFFFF;
-  color: #002868;
+  /* -webkit-border-radius: 15px 15px 0px 0px; */
+  /* border-radius: 15px 15px 15px 15px; */
+  background-color: #eaeaea;
+  color: #bf0a30;
 }
 
 nav a:active {
@@ -287,21 +288,21 @@ nav a:active {
 }
 
 nav a {
-  background-color: #002868;
-  border-radius: 20px;
+  background-color: #ffffff;
+  /* border-radius: 20px 20px 0px 0px; */
   display: inline-block;
-  width: 150px;
+  width: 180px;
   height: 35px;
-  margin-left: 5px;
-  color: #FFFFFF;
+  color: #002868;
   font-weight: 400;
+  margin: -.2em;
   letter-spacing: .02em;
 }
 
 @media screen and (max-width: 640px) {
   nav a {
-    margin: 0 10px;
-    color: #FFFFFF;
+    /* margin: 0 10px; */
+    /* color: #FFFFFF; */
   }
 }
 .posts > .post {
@@ -365,7 +366,7 @@ nav a {
 }
 
 .footer {
-  background-color: #BF0A30;
+  background-color: #bf0a30;
   position: absolute;
   text-align: center;
   vertical-align: middle;
@@ -381,7 +382,7 @@ nav a {
 
 @media screen and (max-width: 640px) {
   .footer {
-    height:.2.8em;
+    height: 0.2 0.8em;
     height: 70px;
     padding-bottom: 2px;
   }
@@ -416,7 +417,6 @@ nav a {
     padding: 0;
   }
 }
-
 textarea#InputMessage.form-control {
   height: 120px;
   padding: 10px;
@@ -427,20 +427,19 @@ textarea#InputMessage.form-control {
   font-size: 16px;
   resize: none;
 }
+
 .emailbox {
   padding: 10px;
-  
 }
+
 .namebox {
   padding: 10px;
-  
 }
 
 form#contact {
   border: double;
   border-color: #bf0a30;
   padding: 20px;
-  
 }
 
 input#InputName.form-control {
@@ -460,18 +459,20 @@ input#InputEmail1.form-control {
 }
 
 label#namelabel {
-  display:block;
+  display: block;
   font-family: Rubik;
 }
 
 label#emaillabel {
-  display:block;
+  display: block;
   font-family: Rubik;
 }
+
 label#messagelabel {
-  display:block;
+  display: block;
   font-family: Rubik;
 }
+
 .messagebox {
   padding: 10px;
 }
